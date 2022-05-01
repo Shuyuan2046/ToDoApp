@@ -39,7 +39,7 @@ Followed by entering localhost:3000 in your browser URL line.
 Direct link to repository:  gh repo clone Shuyuan2046/ToDoApp
 
 # Screen Shot
-<img src="./img/1" width="250" />
+<img src="https://github.com/Shuyuan2046/ToDoApp/blob/24bcd495446ad4b062844fc19a5eac273d1b10b5/img/1.png" width="250" />
 
 ## Video 
 App: https://drive.google.com/file/d/1VkzXGfc8MYf7_32A59_GBn1HV6yyHq5G/view?usp=sharing
